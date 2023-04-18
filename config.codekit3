@@ -115,6 +115,19 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/Week 2\/deploy\/img\/global\/search-glass.jpg" : {
+      "ft" : 16384,
+      "iS" : 1680,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/Week 2\/deploy\/img\/global\/search-glass.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/Week 2\/deploy\/img\/global\/search-glass.svg" : {
       "ft" : 2097152,
       "miP" : 0,
