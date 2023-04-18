@@ -4,142 +4,100 @@
     {
       "name" : "Process All Remaining Files and Folders",
       "stepType" : 1,
-      "uuidString" : "2F66EE1A-F279-4304-A82B-AC408D0A71EE"
+      "uuidString" : "75AC528C-0BB7-42B3-8D0B-1417E8DF48A8"
     }
   ],
   "creatorBuild" : "34472",
   "files" : {
-    "\/assets\/about-left.jpg" : {
-      "ft" : 16384,
-      "iS" : 240900,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/assets\/about-left.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/assets\/about.jpg" : {
-      "ft" : 16384,
-      "iS" : 252641,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/assets\/about.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/assets\/Andriod.svg" : {
+    "\/Week 2\/Assets\/about.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/assets\/Andriod.svg",
+      "oAP" : "\/Week 2\/Assets\/about.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/assets\/Apple.svg" : {
+    "\/Week 2\/Assets\/authors.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/assets\/Apple.svg",
+      "oAP" : "\/Week 2\/Assets\/authors.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/assets\/aws.svg" : {
+    "\/Week 2\/Assets\/bookreleases.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/assets\/aws.svg",
+      "oAP" : "\/Week 2\/Assets\/bookreleases.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/assets\/Google.svg" : {
+    "\/Week 2\/Assets\/Header.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/assets\/Google.svg",
+      "oAP" : "\/Week 2\/Assets\/Header.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/assets\/hero-2.jpg" : {
-      "ft" : 16384,
-      "iS" : 1003073,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/assets\/hero-2.jpg",
+    "\/Week 2\/Assets\/popular book.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/Week 2\/Assets\/popular book.svg",
       "oF" : 0,
-      "oIPL" : 0,
       "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
+      "plM" : 52780316221407,
+      "prP" : 0
     },
-    "\/assets\/hero.jpg" : {
-      "ft" : 16384,
-      "iS" : 479600,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/assets\/hero.jpg",
+    "\/Week 2\/Assets\/reading list.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/Week 2\/Assets\/reading list.svg",
       "oF" : 0,
-      "oIPL" : 0,
       "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
+      "plM" : 52780316221407,
+      "prP" : 0
     },
-    "\/assets\/In-class-S23.fig" : {
+    "\/Week 2\/Assets\/second .svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/Week 2\/Assets\/second .svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/Week 2\/Assets\/third picture.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/Week 2\/Assets\/third picture.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/Week 2\/Assets\/Website Redesign-Clare Zhang.fig" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/assets\/In-class-S23.fig",
+      "oAP" : "\/Week 2\/Assets\/Website Redesign-Clare Zhang.fig",
       "oF" : 0
     },
-    "\/assets\/logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/assets\/logo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/assets\/MS.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/assets\/MS.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/assets\/reddit.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/assets\/reddit.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/deploy\/css\/styles.css" : {
+    "\/Week 2\/deploy\/css\/styles.css" : {
       "aP" : 1,
       "bl" : 0,
       "ci" : 0,
@@ -147,16 +105,16 @@
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/css\/styles-min.css",
+      "oAP" : "\/Week 2\/deploy\/css\/styles-min.css",
       "oF" : 0,
       "pg" : 0
     },
-    "\/deploy\/img\/about\/about-left.jpg" : {
+    "\/Week 2\/deploy\/img\/about\/about-left.jpg" : {
       "ft" : 16384,
       "iS" : 240900,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/about\/about-left.jpg",
+      "oAP" : "\/Week 2\/deploy\/img\/about\/about-left.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -164,22 +122,22 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/global\/logo.svg" : {
+    "\/Week 2\/deploy\/img\/global\/logo.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/deploy\/img\/global\/logo.svg",
+      "oAP" : "\/Week 2\/deploy\/img\/global\/logo.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/deploy\/img\/heroes\/hero-2.jpg" : {
+    "\/Week 2\/deploy\/img\/heroes\/hero-2.jpg" : {
       "ft" : 16384,
       "iS" : 1003073,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/heroes\/hero-2.jpg",
+      "oAP" : "\/Week 2\/deploy\/img\/heroes\/hero-2.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -187,12 +145,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/heroes\/hero.jpg" : {
+    "\/Week 2\/deploy\/img\/heroes\/hero.jpg" : {
       "ft" : 16384,
       "iS" : 479600,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/heroes\/hero.jpg",
+      "oAP" : "\/Week 2\/deploy\/img\/heroes\/hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -200,177 +158,113 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/partners\/android.svg" : {
+    "\/Week 2\/deploy\/img\/partners\/android.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/deploy\/img\/partners\/android.svg",
+      "oAP" : "\/Week 2\/deploy\/img\/partners\/android.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/deploy\/img\/partners\/apple.svg" : {
+    "\/Week 2\/deploy\/img\/partners\/apple.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/deploy\/img\/partners\/apple.svg",
+      "oAP" : "\/Week 2\/deploy\/img\/partners\/apple.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/deploy\/img\/partners\/aws.svg" : {
+    "\/Week 2\/deploy\/img\/partners\/aws.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/deploy\/img\/partners\/aws.svg",
+      "oAP" : "\/Week 2\/deploy\/img\/partners\/aws.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/deploy\/img\/partners\/google.svg" : {
+    "\/Week 2\/deploy\/img\/partners\/google.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/deploy\/img\/partners\/google.svg",
+      "oAP" : "\/Week 2\/deploy\/img\/partners\/google.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/deploy\/img\/partners\/ms.svg" : {
+    "\/Week 2\/deploy\/img\/partners\/ms.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/deploy\/img\/partners\/ms.svg",
+      "oAP" : "\/Week 2\/deploy\/img\/partners\/ms.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/deploy\/img\/partners\/reddit.svg" : {
+    "\/Week 2\/deploy\/img\/partners\/reddit.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/deploy\/img\/partners\/reddit.svg",
+      "oAP" : "\/Week 2\/deploy\/img\/partners\/reddit.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/deploy\/index.html" : {
+    "\/Week 2\/deploy\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/index.html",
+      "oAP" : "\/Week 2\/deploy\/index.html",
       "oF" : 0
     },
-    "\/deploy\/js\/scripts-min.js" : {
+    "\/Week 2\/deploy\/js\/scripts-min.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/deploy\/js\/scripts-min-min.js",
+      "oAP" : "\/Week 2\/deploy\/js\/scripts-min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
     },
-    "\/dev\/content\/about.kit" : {
+    "\/Week 2\/dev\/global\/header.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/content\/about.html",
+      "oAP" : "\/Week 2\/dev\/global\/header.html",
       "oF" : 0
     },
-    "\/dev\/content\/hero-2.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/hero-2.html",
-      "oF" : 0
-    },
-    "\/dev\/content\/hero.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/hero.html",
-      "oF" : 0
-    },
-    "\/dev\/content\/partners.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/partners.html",
-      "oF" : 0
-    },
-    "\/dev\/content\/request.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/request.html",
-      "oF" : 0
-    },
-    "\/dev\/global\/footer.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/global\/footer.html",
-      "oF" : 0
-    },
-    "\/dev\/global\/head.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/global\/head.html",
-      "oF" : 0
-    },
-    "\/dev\/global\/header.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/global\/header.html",
-      "oF" : 0
-    },
-    "\/dev\/global\/scripts.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/global\/scripts.html",
-      "oF" : 0
-    },
-    "\/dev\/index.kit" : {
+    "\/Week 2\/dev\/index.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/index.html",
-      "oF" : 2
+      "oAP" : "\/Week 2\/dev\/index.html",
+      "oF" : 0
     },
-    "\/dev\/js\/scripts.js" : {
+    "\/Week 2\/dev\/js\/scripts.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/deploy\/js\/scripts-min.js",
+      "oAP" : "\/Week 2\/deploy\/js\/scripts-min.js",
       "oF" : 2,
       "sC" : 3,
       "tS" : 0
     },
-    "\/dev\/scss\/base\/_base.scss" : {
+    "\/Week 2\/dev\/scss\/base\/_base.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -379,13 +273,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/base\/_base.css",
+      "oAP" : "\/Week 2\/dev\/scss\/base\/_base.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/base\/_normalize.scss" : {
+    "\/Week 2\/dev\/scss\/base\/_normalize.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -394,13 +288,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/base\/_normalize.css",
+      "oAP" : "\/Week 2\/dev\/scss\/base\/_normalize.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/base\/_typography.scss" : {
+    "\/Week 2\/dev\/scss\/base\/_typography.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -409,13 +303,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/base\/_typography.css",
+      "oAP" : "\/Week 2\/dev\/scss\/base\/_typography.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/components\/_buttons.scss" : {
+    "\/Week 2\/dev\/scss\/components\/_buttons.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -424,13 +318,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/_buttons.css",
+      "oAP" : "\/Week 2\/dev\/scss\/components\/_buttons.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/components\/_forms.scss" : {
+    "\/Week 2\/dev\/scss\/components\/_forms.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -439,13 +333,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/_forms.css",
+      "oAP" : "\/Week 2\/dev\/scss\/components\/_forms.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/components\/_navigation.scss" : {
+    "\/Week 2\/dev\/scss\/components\/_navigation.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -454,13 +348,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/_navigation.css",
+      "oAP" : "\/Week 2\/dev\/scss\/components\/_navigation.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/helpers\/_mixins.scss" : {
+    "\/Week 2\/dev\/scss\/helpers\/_mixins.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -469,13 +363,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/helpers\/_mixins.css",
+      "oAP" : "\/Week 2\/dev\/scss\/helpers\/_mixins.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/helpers\/_variables.scss" : {
+    "\/Week 2\/dev\/scss\/helpers\/_variables.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -484,13 +378,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/helpers\/_variables.css",
+      "oAP" : "\/Week 2\/dev\/scss\/helpers\/_variables.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/layout\/_footer.scss" : {
+    "\/Week 2\/dev\/scss\/layout\/_footer.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -499,13 +393,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/layout\/_footer.css",
+      "oAP" : "\/Week 2\/dev\/scss\/layout\/_footer.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/layout\/_header.scss" : {
+    "\/Week 2\/dev\/scss\/layout\/_header.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -514,13 +408,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/layout\/_header.css",
+      "oAP" : "\/Week 2\/dev\/scss\/layout\/_header.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/styles.scss" : {
+    "\/Week 2\/dev\/scss\/styles.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -529,8 +423,8 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/css\/styles.css",
-      "oF" : 2,
+      "oAP" : "\/Week 2\/dev\/scss\/styles.css",
+      "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
@@ -543,10 +437,10 @@
 
   },
   "projectAttributes" : {
-    "creationDate" : 702560800.42181301,
-    "displayValue" : "InClass-Demo-S23",
+    "creationDate" : 703466725.59142005,
+    "displayValue" : "Week-2--HTML",
     "displayValueWasSetByUser" : 0,
-    "iconImageName" : "brackets_gray",
+    "iconImageName" : "brackets-slime",
     "iconImageWasSetByUser" : 0
   },
   "projectSettings" : {

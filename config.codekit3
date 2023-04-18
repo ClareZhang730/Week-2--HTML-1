@@ -89,6 +89,14 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/Week 2\/Assets\/Website Redesign-Clare Zhang.fig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/Week 2\/Assets\/Website Redesign-Clare Zhang.fig",
+      "oF" : 0
+    },
     "\/Week 2\/deploy\/css\/styles.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -228,6 +236,38 @@
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
+    },
+    "\/Week 2\/dev\/global\/footer.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/Week 2\/dev\/global\/footer.html",
+      "oF" : 0
+    },
+    "\/Week 2\/dev\/global\/head.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/Week 2\/dev\/global\/head.html",
+      "oF" : 0
+    },
+    "\/Week 2\/dev\/global\/header.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/Week 2\/dev\/global\/header.html",
+      "oF" : 0
+    },
+    "\/Week 2\/dev\/global\/scripts.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/Week 2\/dev\/global\/scripts.html",
+      "oF" : 0
     },
     "\/Week 2\/dev\/index.kit" : {
       "cB" : 0,
