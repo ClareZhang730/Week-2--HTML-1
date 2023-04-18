@@ -128,16 +128,6 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/Week 2\/deploy\/img\/global\/search-glass.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/Week 2\/deploy\/img\/global\/search-glass.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
     "\/Week 2\/deploy\/img\/partners\/android.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -216,14 +206,6 @@
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
-    },
-    "\/Week 2\/dev\/content\/articles.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/Week 2\/dev\/content\/articles.html",
-      "oF" : 0
     },
     "\/Week 2\/dev\/content\/articles.kit" : {
       "cB" : 0,
