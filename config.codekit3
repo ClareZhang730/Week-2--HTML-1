@@ -92,17 +92,17 @@
       "q" : 90,
       "rq" : 75
     },
-    "\/Week 2\/deploy\/img\/global\/hero picture.png" : {
-      "ft" : 32768,
-      "iS" : 645778,
+    "\/Week 2\/deploy\/img\/global\/hero picture.jpg" : {
+      "ft" : 16384,
+      "iS" : 483395,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/Week 2\/deploy\/img\/global\/hero picture.png",
+      "oAP" : "\/Week 2\/deploy\/img\/global\/hero picture.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
     "\/Week 2\/deploy\/img\/global\/logo.svg" : {
@@ -114,32 +114,6 @@
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
-    },
-    "\/Week 2\/deploy\/img\/heroes\/hero-2.jpg" : {
-      "ft" : 16384,
-      "iS" : 1003073,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/Week 2\/deploy\/img\/heroes\/hero-2.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Week 2\/deploy\/img\/heroes\/hero.jpg" : {
-      "ft" : 16384,
-      "iS" : 479600,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/Week 2\/deploy\/img\/heroes\/hero.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
     },
     "\/Week 2\/deploy\/img\/partners\/android.svg" : {
       "ft" : 2097152,
