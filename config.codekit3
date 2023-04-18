@@ -105,6 +105,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/Week 2\/deploy\/img\/global\/facebook.jpg" : {
+      "ft" : 16384,
+      "iS" : 1105,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/Week 2\/deploy\/img\/global\/facebook.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/Week 2\/deploy\/img\/global\/fifth hero .jpg" : {
       "ft" : 16384,
       "iS" : 75381,
@@ -131,12 +144,38 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/Week 2\/deploy\/img\/global\/Group 10.jpg" : {
+      "ft" : 16384,
+      "iS" : 744,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/Week 2\/deploy\/img\/global\/Group 10.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/Week 2\/deploy\/img\/global\/hero picture.jpg" : {
       "ft" : 16384,
       "iS" : 483395,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/Week 2\/deploy\/img\/global\/hero picture.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/Week 2\/deploy\/img\/global\/instagram.jpg" : {
+      "ft" : 16384,
+      "iS" : 1390,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/Week 2\/deploy\/img\/global\/instagram.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -153,6 +192,19 @@
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
+    },
+    "\/Week 2\/deploy\/img\/global\/nav-guide.jpg" : {
+      "ft" : 16384,
+      "iS" : 1673,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/Week 2\/deploy\/img\/global\/nav-guide.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
     "\/Week 2\/deploy\/img\/global\/search-glass.jpg" : {
       "ft" : 16384,
@@ -206,12 +258,64 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/Week 2\/deploy\/img\/global\/telephone.jpg" : {
+      "ft" : 16384,
+      "iS" : 1575,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/Week 2\/deploy\/img\/global\/telephone.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/Week 2\/deploy\/img\/global\/third hero.jpg" : {
       "ft" : 16384,
       "iS" : 372560,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/Week 2\/deploy\/img\/global\/third hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/Week 2\/deploy\/img\/global\/tiktok.jpg" : {
+      "ft" : 16384,
+      "iS" : 1026,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/Week 2\/deploy\/img\/global\/tiktok.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/Week 2\/deploy\/img\/global\/Vector 20.jpg" : {
+      "ft" : 16384,
+      "iS" : 1279,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/Week 2\/deploy\/img\/global\/Vector 20.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/Week 2\/deploy\/img\/global\/youtube.jpg" : {
+      "ft" : 16384,
+      "iS" : 1279,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/Week 2\/deploy\/img\/global\/youtube.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -297,14 +401,6 @@
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
-    },
-    "\/Week 2\/dev\/content\/articles.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/Week 2\/dev\/content\/articles.html",
-      "oF" : 0
     },
     "\/Week 2\/dev\/content\/articles.kit" : {
       "cB" : 0,
