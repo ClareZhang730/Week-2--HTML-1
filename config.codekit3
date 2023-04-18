@@ -92,6 +92,19 @@
       "q" : 90,
       "rq" : 75
     },
+    "\/Week 2\/deploy\/img\/global\/about hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 95109,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/Week 2\/deploy\/img\/global\/about hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/Week 2\/deploy\/img\/global\/fifth hero .jpg" : {
       "ft" : 16384,
       "iS" : 75381,
@@ -160,6 +173,19 @@
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/Week 2\/deploy\/img\/global\/second hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/Week 2\/deploy\/img\/global\/seventh hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 64497,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/Week 2\/deploy\/img\/global\/seventh hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -271,6 +297,14 @@
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
+    },
+    "\/Week 2\/dev\/content\/articles.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/Week 2\/dev\/content\/articles.html",
+      "oF" : 0
     },
     "\/Week 2\/dev\/content\/articles.kit" : {
       "cB" : 0,
